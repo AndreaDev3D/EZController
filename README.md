@@ -2,6 +2,9 @@
 
 <!-- SMALL-SOCIAL -->
 <p align="right">
+  <a href="https://andreadev3d.com/" target="_blank">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22279134/271711183-81fb1643-3339-494c-899a-14c2d14e2c41.png" width="32" />
+  </a>   
   <a href="https://discord.gg/MBxDKkg6YK" target="_blank">
     <img src="https://user-images.githubusercontent.com/22279134/194764030-c0ed3ba3-8d86-4ae2-b56c-3ee88a41be81.png" width="32" />
   </a>    
@@ -54,6 +57,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Join the party 🎉!
 
 <p align="left">
+  <a href="https://andreadev3d.com/" target="_blank">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22279134/271711183-81fb1643-3339-494c-899a-14c2d14e2c41.png" width="64" />
+  </a>   
   <a href="https://discord.gg/MBxDKkg6YK" target="_blank">
     <img src="https://user-images.githubusercontent.com/22279134/194764030-c0ed3ba3-8d86-4ae2-b56c-3ee88a41be81.png" width="64" />
   </a>    
