@@ -1,0 +1,25 @@
+{
+  "name": "com.andreadev3d.ezcontroller",
+  "version": "1.0.0",
+  "displayName": "EZ Controller",
+  "description": "A free unity library for modular vehicle controls.",
+  "unity": "2022.3",
+  "unityRelease": "4f1",
+  "author": {
+    "name": "AndreaDev3d",
+    "email": "andreapomposelli@gmail.com",
+    "url": "https://andreadev3d.com/"
+  },
+  "dependencies": {},
+  "keywords": [
+    "Car",
+    "Controller"
+  ],
+  "samples": [
+    {
+      "displayName": "EZCar Demo",
+      "description": "Contains sample demo with a working car prefab and a working scene",
+      "path": "Samples/EZCar Demo"
+    }
+  ]
+}
