@@ -16,6 +16,8 @@
 # EZController v1.0.0
 An open-source Unity library dedicated to the modular control of vehicles. This library provides a flexible framework that allows developers to plug in their own vehicle models, visual, sounds, and control systems.
 
+![image](https://github.com/AndreaDev3D/EZController/assets/22279134/6e1f6097-c1ee-4b9d-8db6-8a1c52c72d45)
+
 It's designed to be easy to use, whether you're new to game development or a seasoned pro. With this library, you can focus on creating unique vehicle behaviors and interactions, without getting bogged down in the underlying complexities of vehicle dynamics.
 
 
