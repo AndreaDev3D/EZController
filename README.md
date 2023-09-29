@@ -5,7 +5,7 @@
   <a href="https://discord.gg/MBxDKkg6YK" target="_blank">
     <img src="https://user-images.githubusercontent.com/22279134/194764030-c0ed3ba3-8d86-4ae2-b56c-3ee88a41be81.png" width="32" />
   </a>    
-  <a href="https://twitter.com/AndreaDev_3DArt" target="_blank">
+  <a href="https://twitter.com/AndreaDev3D" target="_blank">
     <img src="https://user-images.githubusercontent.com/22279134/194764036-e4fc3421-018a-4b3a-b763-2b803ee0c78e.png" width="32" />
   </a>  
   <a href="https://www.youtube.com/channel/UCPCCUYILXKV85aEJy9UqAtg" target="_blank">
@@ -21,7 +21,7 @@ It's designed to be easy to use, whether you're new to game development or a sea
 
 <!-- INSTALLATION -->
 ## Installation
-_Installation is very easy as this come as unity package._
+_Installation is a straightforward process, offering you three convenient options to select from based on your preferences._
 
 1. Install with Packages Manager > add package from git URL  
    ```sh
@@ -29,6 +29,11 @@ _Installation is very easy as this come as unity package._
    ```
    OR
 2. Clone the repo into your package folder
+   ```sh
+   git clone https://github.com/AndreaDev3D/EZController.git
+   ```
+   OR
+3. Download the latest release as zip into your package folder
    ```sh
    git clone https://github.com/AndreaDev3D/EZController.git
    ```
@@ -50,7 +55,7 @@ Join the party 🎉!
   <a href="https://discord.gg/MBxDKkg6YK" target="_blank">
     <img src="https://user-images.githubusercontent.com/22279134/194764030-c0ed3ba3-8d86-4ae2-b56c-3ee88a41be81.png" width="64" />
   </a>    
-  <a href="https://twitter.com/AndreaDev_3DArt" target="_blank">
+  <a href="https://twitter.com/AndreaDev3D" target="_blank">
     <img src="https://user-images.githubusercontent.com/22279134/194764036-e4fc3421-018a-4b3a-b763-2b803ee0c78e.png" width="64" />
   </a>  
   <a href="https://www.youtube.com/channel/UCPCCUYILXKV85aEJy9UqAtg" target="_blank">
